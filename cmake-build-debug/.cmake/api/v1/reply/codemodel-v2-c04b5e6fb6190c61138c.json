@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.29"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "2024_MOD003212_TRI1_F01CAM",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "2024_MOD003212_TRI1_F01CAM::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-2024_MOD003212_TRI1_F01CAM-Debug-d0e0d23df08f1f2ba448.json",
+					"name" : "2024_MOD003212_TRI1_F01CAM",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/maanasd/Desktop/Final Project/Car Sales Files/2024 MOD003212 TRI1 F01CAM/cmake-build-debug",
+		"source" : "/Users/maanasd/Desktop/Final Project/Car Sales Files/2024 MOD003212 TRI1 F01CAM"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

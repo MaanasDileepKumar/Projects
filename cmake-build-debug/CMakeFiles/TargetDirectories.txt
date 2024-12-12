@@ -1,0 +1,3 @@
+/Users/maanasd/Desktop/Final Project/Car Sales Files/2024 MOD003212 TRI1 F01CAM/cmake-build-debug/CMakeFiles/2024_MOD003212_TRI1_F01CAM.dir
+/Users/maanasd/Desktop/Final Project/Car Sales Files/2024 MOD003212 TRI1 F01CAM/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/maanasd/Desktop/Final Project/Car Sales Files/2024 MOD003212 TRI1 F01CAM/cmake-build-debug/CMakeFiles/rebuild_cache.dir
